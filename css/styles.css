@@ -1,0 +1,13 @@
+.periodicosEspañoles { 
+
+    list-style-type:lower-alpha ;
+
+}
+
+.periodicosAmericanos {
+
+    list-style-type: upper-roman;
+}
+.listaPeriodicos {
+    margin: 0em;
+}
